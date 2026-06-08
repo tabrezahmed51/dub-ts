@@ -37,7 +37,7 @@
     "tshy": "^2.0.0",
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.26.0",
-    "vitest": "1.4.0"
+    "vitest": "3.2.6"
   },
   "dependencies": {
     "zod": "^3.25.0 || ^4.0.0"
